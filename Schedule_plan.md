@@ -1,10 +1,9 @@
-### Schedule for Project
 
-## Eagle Project: Salt River Cleanup
+# Eagle Project: Salt River Cleanup - Schedule
 **Date:** September 19, 2026  
 **Location:** 7th Street Rio Salado Parking Lot
 
-### Timeline
+## Timeline
 
 1. **Start & Arrival** - 7:00 AM
    - Everyone arrives at 7th Street Rio Salado parking lot
@@ -18,7 +17,7 @@
    - Discuss cleanup procedures and hazards
    - Distribute safety equipment and supplies
 
-4. **Cleanup Operations** - 7:50 AM
+4. **Cleanup Operations** - 7:40 AM
    - Teams deploy to shores of Salt River
    - Begin cleanup and trash collection
 
@@ -30,8 +29,12 @@
    - Conclude cleanup operations
    - Final site inspection
 
-7. **Site Restoration & Departure** - 10:00 AM
+7. **Site Restoration & Departure** - 10:15 AM
    - Clean up easy-ups and parking lot
    - Ensure all equipment is removed
    - Final departure
 
+## Project Required Items 
+
+1. Water 
+2. 
