@@ -3,12 +3,12 @@
 
 ## Documentations needed
 
-- [ ] Eagle Project overview and objectives.
-- [ ] Project plan.
+- [x] Eagle Project overview and objectives.
+- [x] Project plan.
 - [ ] Scout/volunteer recruitment flyer
-- [ ] Project-day schedule.
-- [ ] Safety plan.
-- [ ] Supplies checklist.
+- [x] Project-day schedule.
+- [x] Safety plan.
+- [x] Supplies checklist.
 - [ ] Volunteer sign-in sheet
 - [ ] Service-hours tracking sheet
 - [ ] Trash/data collection sheet
@@ -16,6 +16,6 @@
 - [ ] Beneficiary impact summary
 - [ ] Post-project evaluation
 - [ ] Thank-you message
-- [ ] QR-code/webpage wording
+- [x] QR-code/webpage wording
 - [ ] Printable webpage/PDF layout instructions
 - [ ] Final Eagle Project documentation checklist
