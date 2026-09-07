@@ -10,11 +10,12 @@
 
 ## Watch Out For
 - **Sharp Objects** - Wear gloves, use picker tools
-- **Water** - Buddy system, stay shallow
+- **Water** - Buddy system, stay shallow, ask a leader or speak with me
 - **Heavy Items** - Get help lifting
-- **Heat** - Drink water every 20 minutes
+- **Heat** - Drink water constantly
+- Do not pick up cigaretes or vapes
 - **Vehicles** - Wear vest, stay alert
-- **Wildlife** - Don't bother them, tell a leader
+- **Wildlife** - Don't bother them, tell a leader, if it is cool though take a picture
 
 ## While Working
 - Work with a buddy (never alone)
@@ -31,11 +32,11 @@
 - Serious → Stop work, call 911
 
 ## Key Rules
-1. Never work alone
+1. Never work alone-Buddy System
 2. Wear all gear
 3. Tell a leader if unsafe
 4. Drink water & take breaks
-5. No fooling around
-6. Listen to leaders
+5. No fooling around-be careful
+6. Listen to my instructions
 7. Don't touch unknown stuff
 8. Stay in cleanup areas

@@ -3,8 +3,11 @@
 - [ ] Trash grabbers
 - [ ] Gloves
 - [ ] Vests
-- [ ] Water bottles
-- [ ] Closed-toe shoes
+- [ ] Water
 - [ ] Trash bags
 - [ ] Easy-Ups
 - [ ] 2 tables
+- [ ] Trash Weighing machine
+- [ ] breakfast borritos
+- [ ] tim-tams
+- [ ] salsa
