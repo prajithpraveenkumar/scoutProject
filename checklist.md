@@ -1,12 +1,13 @@
 ## Supply Checklist
 
+- [ ] first-aid kit
 - [ ] Trash grabbers
-- [ ] Gloves
+- [ ] Gloves - Get from Trialer
 - [ ] Vests
-- [ ] Water
+- [ ] Water - Get water cans from Trialer
 - [ ] Trash bags
-- [ ] Easy-Ups
-- [ ] 2 tables
+- [ ] Easy-Ups - Get one from Trialer
+- [ ] 2 tables - Get one from trialer
 - [ ] Trash Weighing machine
 - [ ] breakfast borritos
 - [ ] tim-tams
