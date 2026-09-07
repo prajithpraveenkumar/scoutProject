@@ -21,20 +21,19 @@
    - Teams deploy to shores of Salt River
    - Begin cleanup and trash collection
 
-5. **Trash Collection & Weighing** - 9:50 AM
+5. **Water station setup**  - 8:30 AM to  8:40 AM
+   - Build Easy-ups for water station
+   - Group to take water break and dring water
+
+6. **Trash Collection & Weighing** - 9:50 AM
    - Collect all trash from cleanup areas
    - Weigh and document collected materials
 
-6. **Project Completion** - 10:00 AM
+7. **Project Completion** - 10:00 AM
    - Conclude cleanup operations
    - Final site inspection
 
-7. **Site Restoration & Departure** - 10:15 AM
+8. **Site Restoration & Departure** - 10:15 AM
    - Clean up easy-ups and parking lot
    - Ensure all equipment is removed
    - Final departure
-
-## Project Required Items 
-
-1. Water 
-2. 

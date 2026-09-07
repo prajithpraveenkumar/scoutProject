@@ -1,9 +1,9 @@
 ## Supply Checklist
 
-- [ ] first-aid kit
-- [ ] Trash grabbers
+- [ ] first-aid kit- from trailer
+- [ ] Trash grabbers - 15
 - [ ] Gloves - Get from Trialer
-- [ ] Vests
+- [ ] Vests - from trailer
 - [ ] Water - Get water cans from Trialer
 - [ ] Trash bags
 - [ ] Easy-Ups - Get one from Trialer

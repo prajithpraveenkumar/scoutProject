@@ -27,7 +27,7 @@ This repository contains the planning materials, safety documents, volunteer inf
 
 ## Project Files
 
-- [Supplies checklist](checklist.md)
+- [Supplies checklist](supplychecklist.md)
 - [Volunteer signup details](Volunteer_Signup_Details.md)
 - [Safety briefing](SafetyBriefing.md)
 - [Schedule plan](SchedulePlan.md)
