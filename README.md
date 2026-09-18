@@ -37,3 +37,4 @@ This repository contains the planning materials, safety documents, volunteer inf
 - [Cleanup team spreadsheet](CleanupTeam.xlsx)
 - [Project webpage](aztroop531Cleanup.html)
 - [Eagle Project PDF](prajithEagleProject.pdf)
+- [For Troop website](aztroop531Cleanup.html)
